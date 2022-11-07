@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "name" : "Chacha Choudhary",
+        "ratings" : 4,
+        "authors" : {
+            "name" : "Gumnaam Chourasia",
+            "noOfBooksPublished" : 4
+
+        }
+    },
+    {
+        "id" : 2,
+        "name" : "Shiva Trology",
+        "ratings" : 5,
+        "authors" : {
+            "name" : "Amish",
+            "noOfBooksPublished" : 7
+
+        }
+    },
+    {
+        "id" : 3,
+        "name" : "Peace of Life",
+        "ratings" : 4,
+        "authors" : {
+            "name" : "Sadguru",
+            "noOfBooksPublished" : 4
+
+        }
+    },
+    {
+        "id" : 4,
+        "name" : "Scion Of Ikshvaku",
+        "ratings" : 4,
+        "authors" : {
+            "name" : "Amish",
+            "noOfBooksPublished" : 3
+
+        }
+    },
+    {
+        "id" : 5,
+        "name" : "Wings of Fire",
+        "ratings" : 4,
+        "authors" : {
+            "name" : "Dr. APJ Abdul Kalam",
+            "noOfBooksPublished" : 5
+
+        }
+    }
+]
